@@ -1,1 +1,20 @@
 # safegem-finance
+
+##Foundation##
+
+The purpose of a Binance Smart Chain contract is to provide a baseline for a new token on the market. Our contract is built around a standard structure that implements simple and thoroughly tested functions which are elementary for the functionality of a contract and which are part of any smart contract. We believe in customisations and improvements, but we also don’t want to mess up something that’s working well. Thus, it is always better to keep the skeleton of a contract as standard and straightforward as you can. On this skeleton, we built our SafeGem contract, around which, we have implemented from scratch unique security features to keep our holders protected, that is rarely seen in the crypto space.
+Tokenomics
+Besides our focus on the safety of our investors, the team found it important to also reward long-term holders, by implementing functions that offer incredible incentives. One of them is the 6% reflection, which is the highest passive income currently seen in the crypto space that facilitates gaining tokens without doing anything just by holding them. The other incentive is the 5% continuous burn, which makes SafeGem hyper-deflationary, making our total supply decrease continuously while maximising transaction value. Besides this burning function, quickly after the pre-sale ended, the team sent 53% of the SafeGem tokens in a black hole/dead wallet, reducing circulation considerably. The dead wallet is a wallet to which no one has access, but from the contract’s perspective, that wallet is also a holder, and keeps receiving yield as any other wallet, making it even more prominent by every transaction, therefore making the coin stronger and more valuable.
+
+##Dump-Proof##
+
+Another exciting feature implemented by the SafeGem team is the maximum allowed transaction variable, which is 0.01% of the total supply of the tokens. This will protect the holders against the possibility of any rug or whale attack. This revolutionary feature makes the token more powerful and incredibly safe.
+
+##Multi-Signature Wallet##
+
+The team’s developers are currently working on our very own customized multi-signature wallet where the marketing budget will be moved. This multi-signature wallet will act as a protective barrier and any access and usage of those tokens will require multiple team members to sign off on. How does this work in practice? Here is a practical example: let’s say we create one multi-signature wallet with 10 owners. At the creation of the wallet, a number of signatures needs to be provided, that will be necessary for this wallet before making any transaction. Let’s assume we will set this number to 7. This means that, for any transaction to be executed from this wallet, at least 7 of the 10 owners needs to agree and sign, and only then any transaction will be able to be executed. This will provide extra security to the funds and a democratic way to decide where the funds would go.
+
+##Digital Certification of Precious Stones##
+
+In SafeGem’s roadmap, the team aims to implement an NFT contract, which will be used to identify a specific precious stone and assign a unique and specific token with all authenticating information that will contain the specifics of such gem and its creator/founder. This will then serve as a digital authentication certificate, which can never be lost, copied, altered or modified, and there will be no need to be deposited in a safe because it can never be lost. The blockchain is the one safe place where one can know, once something is there, it cannot be taken it back. The team strongly believes that the use of the blockchain and NFTs suits perfectly the SafeGem project.
+This digital certification service will be implemented on a dedicated section on our website, and each partner/customer will have their accounts with which they will create their NFTs for their gems and provide them to the new owner once they sold them. This is called an NFT launchpad and $GEMS will become the launchpad’s utility token.
